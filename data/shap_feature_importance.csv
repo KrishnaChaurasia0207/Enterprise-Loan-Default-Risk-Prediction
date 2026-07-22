@@ -1,0 +1,11 @@
+Feature,Mean_SHAP_Impact
+Number_of_Active_Loans,1.0636743
+Previous_Defaults,0.62945324
+Debt_to_Income_Ratio,0.54083216
+behavioral_risk_score,0.3083293
+Credit_Score,0.20169996
+Interest_Rate,0.18102878
+Avg_Days_Past_Due,0.18092607
+EMI_to_Income_Ratio,0.159099
+spending_to_income_ratio,0.07990892
+avg_monthly_spending,0.05409446

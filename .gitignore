@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Large datasets
+data/credit_risk_final.csv
+
+# SQLite
+*.db
+*.sqlite
+
+# Project Specific (Data and Databases)
+*.db
+loan_risk.db
+enterprise_database/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
