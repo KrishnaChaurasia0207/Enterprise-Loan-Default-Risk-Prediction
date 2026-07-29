@@ -27,13 +27,11 @@ The primary objective of this project is to help financial institutions:
 ✔ Support business teams through interactive dashboards
 Also Presented Through Visualizations
 
-(Insert your EDA visualizations here just like the reference project.)
+<img src="images/Default_Distribution.png" width="50%">
+<img src="images/Credit_score_distribution.png" width="50%">
 
-<img src="images/Default_Distribution.png" width="48%">
-<img src="images/Credit_score_distribution.png" width="48%">
-
-<img src="images/Loan_amount_distribution.png" width="48%">
-<img src="images/LoanAmountByIncome.png" width="48%">
+<img src="images/Loan_amount_distribution.png" width="50%">
+<img src="images/LoanAmountByIncome.png" width="50%">
 📂 Dataset Description
 
 The project is built on a realistic synthetic banking dataset designed to simulate enterprise lending scenarios.
@@ -221,9 +219,8 @@ This enables financial institutions to understand why a customer is classified a
 
 Developed an interactive dashboard providing comprehensive business insights.
 
-(Insert your dashboard screenshot here.)
-
-<img src="images/ExecutiveDashboard.png">
+<img src="C:\Users\Krishna\OneDrive\Pictures\Screenshots\Dashboard 1.png" width="50%">
+<img src="C:\Users\Krishna\OneDrive\Pictures\Screenshots\Dashboard 2.png" width="50%">
 Executive Overview
 Total Loans
 Default Rate
