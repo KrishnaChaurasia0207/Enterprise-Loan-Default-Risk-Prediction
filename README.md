@@ -18,7 +18,7 @@ This project develops a complete Loan Default Prediction & Credit Risk Analytics
 
 ---
 
-# 🎯 Business Objective
+## 🎯 Business Objective
 
  The primary objective of this project is to help financial institutions:
 
@@ -32,11 +32,11 @@ This project develops a complete Loan Default Prediction & Credit Risk Analytics
 
 ## Also Presented Through Visualizations ->
 
-<img src="images/Default_Distribution.png" width="50%">
-<img src="images/Credit_score_distribution.png" width="50%">
+<img src="images/Default_Distribution.png" width="1742">
+<img src="images/Credit_score_distribution.png" width="1742">
 
-<img src="images/Loan_amount_distribution.png" width="50%">
-<img src="images/LoanAmountByIncome.png" width="50%">
+<img src="images/Loan_amount_distribution.png" width="1742">
+<img src="images/LoanAmountByIncome.png" width="1742">
 
 # 📂 Dataset Description
 
@@ -144,7 +144,7 @@ Imported multiple financial datasets into MySQL database.
 
 Created and executed SQL queries to extract meaningful business insights.
 
-# Key SQL Analysis
+### Key SQL Analysis
 
 * Loan Portfolio Analysis
 
@@ -162,7 +162,7 @@ Created and executed SQL queries to extract meaningful business insights.
 
 * Default Rate Analysis
 
-# Advanced SQL Concepts Used
+### Advanced SQL Concepts Used
 * Joins
 * Window Functions
 * Aggregate Functions
@@ -233,9 +233,9 @@ Three supervised classification models were developed and compared.
 * ROC-AUC
 * Confusion Matrix
 
-### Best Performing Model
+## Best Performing Model
 
-#### Logistic Regression
+### Logistic Regression
 
 * Accuracy: 87.67%
 * Precision: 79.40%
@@ -243,7 +243,7 @@ Three supervised classification models were developed and compared.
 * F1 Score: 70.24%
 * ROC-AUC: 91.25%
 
-<img src=" images\ML_Model_performance_comparision.png" width="1742" height="841" />
+<img src="images\ML_Model_performance_comparision.png" width="1742" />
 
 ---
 
@@ -266,8 +266,8 @@ This enables financial institutions to understand why a customer is classified a
 
 Developed an interactive dashboard providing comprehensive business insights.
 
-<img src="C:\Users\Krishna\OneDrive\Pictures\Screenshots\Dashboard 1.png" width="1742">
-<img src="C:\Users\Krishna\OneDrive\Pictures\Screenshots\Dashboard 2.png" width="1742">
+<img src="images\Executive_Dashboard.png" width="1742">
+<img src="images\ML_Dashboard.png" width="1742">
 
 ## Executive Overview
 
