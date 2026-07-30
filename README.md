@@ -112,7 +112,7 @@ Contains:
 ## Database
 
  * SQLite
-SQL
+ * SQL
 
 ## Python Libraries
  * Pandas
@@ -243,7 +243,7 @@ Three supervised classification models were developed and compared.
 * F1 Score: 70.24%
 * ROC-AUC: 91.25%
 
-<img src="C:\Users\Krishna\OneDrive\Desktop\Enterprise-Loan-Default-Risk\images\ML_Model_performance_comparision.png" width="1742" height="841" />
+<img src=" images\ML_Model_performance_comparision.png" width="1742" height="841" />
 
 ---
 
